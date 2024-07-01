@@ -1,4 +1,4 @@
-//Mon Jul 01 2024 02:39:19 GMT+0000 (Coordinated Universal Time)
+//Mon Jul 01 2024 07:11:33 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
 const _0x40bf46 = _0x35a552("携程旅行"),
@@ -1056,7 +1056,7 @@ class _0x31f48a extends _0xf154c1 {
   }
 })().catch(_0x315609 => _0x40bf46.log(_0x315609)).finally(() => _0x40bf46.exitNow());
 async function _0x23a62a(_0x2e6029 = 0) {
-  let _0x16626e = false;
+  let _0x16626e = true;
   try {
     let _0x561ea6 = {
         fn: "auth",
